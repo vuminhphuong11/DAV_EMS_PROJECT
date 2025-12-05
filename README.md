@@ -1,4 +1,5 @@
-# DAV_EMS_PROJECT
+# DAV_EMS_PROJECT base on [EMS: A Large-Scale Eye Movement Dataset, Benchmark, and New Model for Schizophrenia Recognition] paper project
+
 ### # Data_visualize and data_cleaning deadline 12:pm Sunday 30/11 (phuong)
 ### # Data_missing and outlier_detection  deadline 12:pm Monday 01/12 (hang)
 ### # Chisquare  deadline 12:pm Tuesday 02/12 (phuong)
